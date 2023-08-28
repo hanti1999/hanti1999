@@ -4,7 +4,8 @@ My name is Hoang Anh and I'm a second-year student majoring in IT - Software App
 
 ## Technical skill
 - Programming language: JavaScrip
-- Library/Framework/Flatform: ReactJs, NodeJs, ExpressJs, TailwindCSS, Ant Design
+- JS Library/Framework/Flatform: ReactJs, NodeJs, ExpressJs
+- UI Library/Framework: TailwindCSS, Ant Design
 - Database: MongoDB
 - Other: Firebase
 
