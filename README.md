@@ -10,6 +10,6 @@ My name is Hoang Anh and I'm a second-year student majoring in IT - Software App
 - Other: Firebase
 
 ## Contact me:
-📩[Email](nth.anh020209@gmail.com)
 🌍[Instagram](https://www.instagram.com/hoangfanh.99/)
 💬[Zalo](https://zalo.me/0986359498)
+📩Email: nth.anh020209@gmail.com
