@@ -1,15 +1,14 @@
-## Hi there 👋
+## Xin chào 👋
 
-My name is Hoang Anh and I'm a second-year student majoring in IT - Software Applications. I'm passionate about web development and I aspire to become a fullstack developer in the future. I'm eager to learn new technologies and apply them to real-world problems. I'm looking for an internship opportunity where I can gain practical experience and contribute to the success of the company.
+Là một lập trình viên trong lĩnh vực web/mobile, với gần 2 năm kinh nghiệm và mong muốn phát triển trở thành một fullstack developer trong tương lai. Với những kỹ năng mà bản thân đã có, tôi tin rằng bản thân sẽ làm tốt công việc và đồng hành cùng sự phát triển của công ty qua những dự án hiện tại và tương lai.
 
-## Technical skill
-- Programming language: JavaScript, TypeScript
-- JS Library/Framework/Flatform: ReactJs, React Native, Redux/Redux Toolkit, NodeJs, ExpressJs
+## Kỹ năng
+- Ngôn ngữ lập trình: JavaScript, TypeScript, C#
+- JS Library/Framework/Flatform: ReactJs, React Native, NodeJs, ExpressJs, Redux/Redux toolkit
 - UI Library/Framework: TailwindCSS, Ant Design
-- Database: MongoDB
-- Other: Firebase
+- Khác: MongoDB, SQL server, Firebase
 
-## Contact me:
+## Liên hệ:
 🌍[Instagram](https://www.instagram.com/hoangfanh.99/)
 💬[Zalo](https://zalo.me/0986359498)
 📩Email: nth.anh020209@gmail.com
